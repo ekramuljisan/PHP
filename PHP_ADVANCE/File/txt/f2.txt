@@ -1,0 +1,20 @@
+[
+    {
+        "fname": "Ekramul",
+        "lname": "Islam",
+        "age": 25,
+        "city": "Dhaka"
+    },
+    {
+        "fname": "Ahsanul",
+        "lname": "Islam",
+        "age": 25,
+        "city": "Dhaka"
+    },
+    {
+        "fname": "Jahirul",
+        "lname": "Islam",
+        "age": 25,
+        "city": "Dhaka"
+    }
+]
